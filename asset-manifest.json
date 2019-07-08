@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RiddlesBot-LeaderBoard/static/css/main.2cce8147.chunk.css",
+    "main.js": "/RiddlesBot-LeaderBoard/static/js/main.9ec257d2.chunk.js",
+    "main.js.map": "/RiddlesBot-LeaderBoard/static/js/main.9ec257d2.chunk.js.map",
+    "runtime~main.js": "/RiddlesBot-LeaderBoard/static/js/runtime~main.6800f155.js",
+    "runtime~main.js.map": "/RiddlesBot-LeaderBoard/static/js/runtime~main.6800f155.js.map",
+    "static/js/2.61d87809.chunk.js": "/RiddlesBot-LeaderBoard/static/js/2.61d87809.chunk.js",
+    "static/js/2.61d87809.chunk.js.map": "/RiddlesBot-LeaderBoard/static/js/2.61d87809.chunk.js.map",
+    "index.html": "/RiddlesBot-LeaderBoard/index.html",
+    "precache-manifest.245e194a316cd5f229b4855e7725c5b1.js": "/RiddlesBot-LeaderBoard/precache-manifest.245e194a316cd5f229b4855e7725c5b1.js",
+    "service-worker.js": "/RiddlesBot-LeaderBoard/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/RiddlesBot-LeaderBoard/static/css/main.2cce8147.chunk.css.map"
+  }
+}
