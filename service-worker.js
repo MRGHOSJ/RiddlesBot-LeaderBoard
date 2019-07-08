@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/RiddlesBot-LeaderBoard/precache-manifest.245e194a316cd5f229b4855e7725c5b1.js"
+  "/RiddlesBot-LeaderBoard/precache-manifest.1424868e44d729fe257ca60b72c56f0d.js"
 );
 
 self.addEventListener('message', (event) => {
